@@ -415,7 +415,7 @@ namespace v2rayN.Forms
         /// </summary>
         private void LoadV2ray()
         {
-            tsbReload.Enabled = false;
+            // tsbReload.Enabled = false;
 
             if (Global.reloadV2ray)
             {
@@ -428,7 +428,7 @@ namespace v2rayN.Forms
 
             ChangePACButtonStatus(config.listenerType);
 
-            tsbReload.Enabled = true;
+            // tsbReload.Enabled = true;
         }
 
         /// <summary>
@@ -1569,8 +1569,8 @@ namespace v2rayN.Forms
 
         private void tsbQRCodeSwitch_CheckedChanged(object sender, EventArgs e)
         {
-            bool bShow = tsbQRCodeSwitch.Checked;
-            scMain.Panel2Collapsed = !bShow;
+            // bool bShow = tsbQRCodeSwitch.Checked;
+            // scMain.Panel2Collapsed = !bShow;
         }
         #endregion
 
