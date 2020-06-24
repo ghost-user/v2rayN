@@ -4,6 +4,7 @@
 
 <details>
 <summary>Original <code>README</code></summary>
+
 # v2rayN
 
 ### How to use
@@ -14,4 +15,5 @@
 ### Requirements  
 - Microsoft [.NET Framework 4.6](https://docs.microsoft.com/zh-cn/dotnet/framework/install/guide-for-developers) or higher
 - Project V core [https://github.com/v2fly/v2ray-core/releases](https://github.com/v2fly/v2ray-core/releases)
+
 </details>
